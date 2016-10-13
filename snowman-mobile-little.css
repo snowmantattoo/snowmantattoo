@@ -1,0 +1,127 @@
+h1{
+  font-size: 2em;
+}
+
+.title-background{
+  height: 380px;
+}
+
+.about{
+  padding: 15px 10px;
+  font-size: 1em;
+}
+
+.services {
+  display: block;
+}
+
+.sales {
+  display: block;
+}
+
+.sales .sale-container{
+  width: auto;
+}
+
+.sales .sale-container img{
+  width: 80px;
+  height: 80px;
+}
+
+.sales .sale-container .text{
+  font-size: 0.8em;
+  margin-left: 88px;
+}
+
+.sales .sale-container a{
+  margin: 8px auto 0 88px;
+  font-size: 0.8em;
+  padding: 13px 0 0 38px;
+  width: auto;
+}
+
+.gallery{
+  display: block;
+}
+
+.gallery .photo-container{
+  width: 240px;
+}
+
+.team {
+  display: block;
+}
+
+.comments{
+  display: block;
+}
+
+.faq{
+  display: block;
+  padding: 25px 15px;
+}
+
+.faq p{
+  line-height: 1.5;
+  font-size: 1.1em;
+}
+
+.faq .q{
+  color: yellow;
+  font-size: 1.15em;
+}
+
+.faq .a{
+  color: deepskyblue;
+  font-size: 1.15em;
+}
+
+.footer .social a, .footer .social p{
+  display: block;
+  margin: 5px 0px auto 38px;
+  text-decoration: none;
+  color: black;
+  font-family: 'Gill Sans';
+  font-size: 0.9em;
+}
+
+.footer .social a:hover{
+  color: yellow;
+}
+
+.footer .social .address{
+  margin: 35px 0;
+}
+
+.footer .social .vk{
+  margin: 35px 0;
+}
+
+.footer .social .address .icon{
+  display: block;
+}
+
+.footer .social .vk .icon{
+  display: block;
+}
+
+.footer .contacts{
+  margin: 70px auto 50px;
+}
+
+
+.footer .contacts .contact .photo{
+  display: block;
+}
+
+.footer .contacts .contact .name{
+  margin: 10px 0 10px 105px;
+}
+
+.footer .contacts .contact .vk{
+  margin: 10px 0 10px 105px;
+}
+
+.footer .contacts .contact .phone{
+  margin: 5px 0 10px 105px;
+}

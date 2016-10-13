@@ -1,0 +1,47 @@
+.title-background{
+  height: 460px;
+}
+
+.gallery .photo-container{
+  width: 720px;
+}
+
+.team .team-container{
+  width: 670px;
+}
+
+@media (min-width: 900px) {
+  .team .team-container{
+    width: 900px;
+  }
+}
+
+.team .team-container .person{
+  display: inline-block;
+  margin: 10px;
+}
+
+@media (min-width:1281px){
+  .comments{
+    background: url("comments_background_big.jpg");
+  }
+}
+
+.comments .comment{
+  font-size: 0.9em;
+}
+
+.comments a{
+  font-size: 1.1em;
+  background: rgba(255, 255, 255, 0.75);
+  border: none;
+}
+
+.comments a:hover{
+  background: white;
+  border: none;
+}
+
+.faq{
+  padding: 25px;
+}
